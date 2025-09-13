@@ -1,7 +1,6 @@
 # Telecom-Churn Prediction
 ## A Machine Learning Study to Identify Customers at Risk of Leaving
-
-![Box Office Trends](Images/boxoffice.jpg)
+![photo](Images/churn6.png)
 
 **Author:** [Vilmarson JULES](mailto:vilmarsonjules22@gmail.com)
 
@@ -15,7 +14,7 @@ By leveraging historical customer data, including usage patterns, service plans,
 ## Business Problem
 ---
 
-![Movie Studio Planning](Images/image1.jpg) 
+![photo](Images/Digi3.jpg)
 
 The comapany is losing a significant number of customers to competitors, resulting in reduced revenue and higher acquisition costs. The company currently lacks a reliable way to identify at-risk customers proactively, making it challenging to implement targeted retention strategies before churn occurs.
 
@@ -40,7 +39,7 @@ This project follows a predictive modeling approach to classify customers at ris
 
 ## Business Understanding
 ---
-![Movie Studio](Images/image0.jpg)
+![photo](Images/churn4.png)
 
 This project aims to predict customer churn for a telecommunications company. Accurately identifying at-risk customers allows the company to implement targeted retention strategies, optimize marketing efforts, and reduce revenue loss. By analyzing customer behavior and service usage, the project provides actionable insights to retain customers and maximize their lifetime value.
 
@@ -180,7 +179,7 @@ For professional inquiries, collaboration opportunities, or discussions about th
 **Vilmarson JULES**  
 Data Science & AI Student  
 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
-![Vilmarson JULES – Data Science & AI Student](Images/image2.jpg)
+![Vilmarson JULES – Data Science & AI Student](Images/churn2.png)
 
 ## Repository Structure
 
@@ -191,7 +190,6 @@ ds-3-telecom-churn-prediction/
 ├── Images/
 ├── README.md
 ├── churn_index.ipynb
-├── ChurnInsight_Presentation.pdf 
-
+└── ChurnInsight_Presentation.pdf
 ```
 
